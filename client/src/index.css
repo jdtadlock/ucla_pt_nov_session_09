@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 25px 5%;
+  font-family: sans-serif;
+}
+
+label {
+  font-size: 1.2rem;
+}
+
+button {
+  margin-left: 5px;
+  padding: 6px;
+  font-size: 1.0001rem;
+  outline: none;
+}
+
+.alert {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 300px;
+  background: #555;
+  color: #fff;
+  padding: 25px;
+}
